@@ -11,7 +11,7 @@ This project includes:
 ✔ A detailed PDF report + original dataset
 
 🗂 Project Files
-File	Description
+File	Description:
 Diabetes_Project.pdf	Full project report with visualizations & insights
 diabetes_dataset.csv
 
